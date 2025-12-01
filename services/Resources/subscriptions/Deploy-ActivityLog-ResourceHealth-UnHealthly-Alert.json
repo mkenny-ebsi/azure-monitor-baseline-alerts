@@ -245,10 +245,6 @@
                                       {
                                         "field": "properties.cause",
                                         "equals": "PlatformInitiated"
-                                      },
-                                      {
-                                        "field": "properties.cause",
-                                        "equals": "UserInitiated"
                                       }
                                     ]
                                   },
